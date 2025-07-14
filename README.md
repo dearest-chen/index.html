@@ -5,9 +5,8 @@ Deadline 17 Juli 2024
 <html lang="id">
  <head>
    <meta charset="UTF-8" />
-   <title>tentang saya</title>
+  TENTANG SAYA
  </head>
-  
   <body>
     <h1> Baithar J Daren</h1>
     <p> Boleh panggil saya Chen atau Bai, Saya adalah mahasiswa baru Universitas sriwijaya prodi Teknik Informatika ajqwsnqowjxsjkwsdhdbuew </p>
