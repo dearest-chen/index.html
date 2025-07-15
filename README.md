@@ -2,10 +2,10 @@
 Penugasan 14 Juli 2024
 Deadline 17 Juli 2024
 <!DOCTYPE html>
+<title>Tentang saya</title>
 <html lang="id">
  <head>
    <meta charset="UTF-8" />
-  TENTANG SAYA
  </head>
   <body>
     <h1> Baithar J Daren</h1>
