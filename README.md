@@ -1,4 +1,4 @@
-# index.html
+ h# index.html
 <!DOCTYPE html>
 <html lang="id">
  <head>
@@ -16,7 +16,7 @@
     </ul>
     
    <h2> Support System akuu</h2>
-   <aref="https://www.instagram.com/chen.jumawa_?igsh=MTFudGxiYWgyenVqMA=="> <img src="https://win.gg/wp-content/uploads/2025/02/wuwa-phoebe-guide.jpg.webp" alt="support system" 
+   <a href="https://www.instagram.com/chen.jumawa_?igsh=MTFudGxiYWgyenVqMA=="> <img src="https://win.gg/wp-content/uploads/2025/02/wuwa-phoebe-guide.jpg.webp" alt="support system" 
                                                                               </a>                                                                          
   </body>
 
