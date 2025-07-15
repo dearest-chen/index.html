@@ -1,11 +1,9 @@
 # index.html
-Penugasan 14 Juli 2024
-Deadline 17 Juli 2024
 <!DOCTYPE html>
-<title>Tentang saya</title>
 <html lang="id">
  <head>
    <meta charset="UTF-8" />
+  <title>Tentang saya</title>
  </head>
   <body>
     <h1> Baithar J Daren</h1>
@@ -18,7 +16,8 @@ Deadline 17 Juli 2024
     </ul>
     
    <h2> Support System akuu</h2>
-    <img src="https://win.gg/wp-content/uploads/2025/02/wuwa-phoebe-guide.jpg.webp" alt="support system" 
+   <aref="https://www.instagram.com/chen.jumawa_?igsh=MTFudGxiYWgyenVqMA=="> <img src="https://win.gg/wp-content/uploads/2025/02/wuwa-phoebe-guide.jpg.webp" alt="support system" 
+                                                                              </a>                                                                          
   </body>
 
   </html>
